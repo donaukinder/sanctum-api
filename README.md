@@ -1,4 +1,4 @@
 ## Sobre este projeto
 
-Api desenvolvida com o sanctum para estudos, Usando laravel 8.
+REST API desenvolvida com o sanctum para estudos, Usando laravel 8 e Sanctum API.
 
